@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1><a href="https://25ASAB015.github.io/posh">posh2k</a></h1>
+<h1><a href="https://25ASAB015.github.io/posh">Roberto Flores oh-my-posh</a></h1>
 
 <a href="https://github.com/25ASAB015/posh/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/25ASAB015/posh2k?style=flat&color=eee&label="> </a>
@@ -23,7 +23,7 @@
 <h3>Universal prompt for Power users 💪</h3>
 
 <figure>
-  <img src= "images/screenshot.png" alt="posh2k Demo">
+  <img src= "images/screenshot.png" alt="posh Demo">
   <br/>
   <figcaption>posh screenshot</figcaption>
 </figure>
